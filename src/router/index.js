@@ -1,14 +1,14 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import FlowChartTree from '@/views/FlowChartTree.vue';
+import FlowchartTree from '@/views/FlowchartTree.vue';
 
 Vue.use(VueRouter);
 
 const routes = [
   {
     path: '/',
-    name: 'FlowChartTree',
-    component: FlowChartTree,
+    name: 'FlowchartTree',
+    component: FlowchartTree,
   },
 ];
 

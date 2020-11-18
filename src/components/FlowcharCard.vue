@@ -1,5 +1,7 @@
 <template>
-  <h1>FLOW CHART</h1>
+  <div>
+
+  </div>
 </template>
 
 <script>
